@@ -15,6 +15,9 @@ Student Name: Rachel Harrison
 
 Student ID: 8588628
 Student Name: Seyed Mahdi Etemad
+
+Student ID: 8616189
+Student Name: Jannah Hossain
 Update: Tuesday Sept 27
 #Infopack.github.io
 
