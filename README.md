@@ -1,3 +1,3 @@
 Student Number: 8661478
-Student Name: Chris Francis
+Student Name: Christopher Francis
 # Infopack.github.io
