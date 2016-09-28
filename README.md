@@ -19,7 +19,6 @@ Student Name: Seyed Mahdi Etemad
 Student ID: 8616189
 Student Name: Jannah Hossain
 Update: Tuesday Sept 27
->>>>>>> 7a1ffe8ec038687e1de3494024ce0085fce3e2f7
 #Infopack.github.io
 
 
