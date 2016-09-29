@@ -8,17 +8,28 @@ The interface is an interactive map that can be used by tapping on the interest 
 
 Student Number: 8661478
 Student Name: Christopher Francis
+Username:7chris71000
 
 Student Number: 8617981
 Student Name: Rachel Harrison
+Username:rachelmharrison
 
 -Hello World
 Student ID: 8588628
 Student Name: Seyed Mahdi Etemad
+Username:Mahdietemad
 
 Student ID: 8616189
 Student Name: Jannah Hossain
+Username:jannahH
+
 Update: Tuesday Sept 27
 #Infopack.github.io
 
+Github organization/repository link:
+https://github.com/Infopack
+https://github.com/Infopack/Infopack.github.io
 
+
+Github pages
+https://infopack.github.io/README.md
