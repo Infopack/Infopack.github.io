@@ -1,6 +1,6 @@
 Product name: Infopack
 
-Product Description:Infopack is an app where travellers who are new to the area can "become one of the locals" by discovering the history of places, monuments, statues, buildings, 
+Product Description: Introducing Infopack! Infopack is an app where travellers who are new to the area can "become one of the locals" by discovering the history of places, monuments, statues, buildings, 
 as well as tips and information about attractions, restaurants, shops, routes, and prices. 
 This app will let people who can source their information enter, text and picture documents that anyone can view. 
 The interface is an interactive map that can be used by tapping on the interest wanted.
@@ -9,12 +9,15 @@ The interface is an interactive map that can be used by tapping on the interest 
 Student Number: 8661478
 Student Name: Christopher Francis
 
-
 Student Number: 8617981
 Student Name: Rachel Harrison
 
+-Hello World
 Student ID: 8588628
 Student Name: Seyed Mahdi Etemad
+
+Student ID: 8616189
+Student Name: Jannah Hossain
 Update: Tuesday Sept 27
 #Infopack.github.io
 
