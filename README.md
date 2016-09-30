@@ -28,12 +28,13 @@ Student Name : Joydeep Gill
 Username: Joydeepgill
 
 Update: Tuesday Sept 30
-#Infopack.github.io
 
-Github organization/repository link:
+Github organization:
 https://github.com/Infopack
-https://github.com/Infopack/Infopack.github.io
 
+Github repository link:
+https://github.com/Infopack/Infopack.github.io
 
 Github pages
 https://infopack.github.io/README.md
+#Infpack.github.io
