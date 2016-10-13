@@ -1,3 +1,4 @@
+<html>
 <head> 
 
 		<h3><span style ="font-weight:normal"><font size= "20" color="#B9ABFF" face="Archivo Black"><center>Meet the Developers</center></font></font></h3>
@@ -7,17 +8,17 @@
 		
 		
 		
-		<div style="font-size:25px; height: 550px; width: 350px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Mahdi</div>
+		<div style="font-size:25px; height: 350px; width: 150px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Mahdi</div>
 		
 		
-		<div style="font-size:25px; height: 550px; width: 350px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Joydeep</div>
+		<div style="font-size:25px; height: 350px; width: 150px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Joydeep</div>
 		
 		
-		<div style="font-size:25px; height: 550px; width: 350px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Chris</div>
+		<div style="font-size:25px; height: 350px; width: 150px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Chris</div>
 		
-		<div style="font-size:25px; height: 550px; width: 350px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Rachel</div>
+		<div style="font-size:25px; height: 350px; width: 150px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Rachel</div>
 		
-		<div style="font-size:25px; height: 550px; width: 350px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Jannah</div>
+		<div style="font-size:25px; height: 350px; width: 150px; border: 1px solid #000000; float:left;margin: 45px; font-family: Sintony">Jannah</div>
 
 		
 	</body>
