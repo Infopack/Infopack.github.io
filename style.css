@@ -1,22 +1,22 @@
 /*style file for webpage. all css code goes here*/
 	
 		
-	body{
-		background-color: #00000;
-		padding: 1px;
-	}
+body{
+	background-color: #00000;
+	padding: 1px;
+}
 	
-	h1{
-		color: #B9ABFF;
-		padding: 20px;
-		text-decoration: none;
-		border-radius: 300px;
-		font-family: Sintony;
-		font-size: 50px;
-		display: inline;
-	}
+h1{
+	color: #B9ABFF;
+	padding: 20px;
+	text-decoration: none;
+	border-radius: 300px;
+	font-family: Sintony;
+	font-size: 50px;
+	display: inline;
+}
 
-h1.featuresMainTitle{
+.featuresMainTitle{
 	color: #B9ABFF;
 	border:black 5px solid;
 	padding: 20px;
@@ -45,32 +45,32 @@ p.featuresBoarderR{
 	margin: 10px 110px ; 
 	font-family: Sintony
 }
+
+p.indexCenterImage{
+	font-size:25px; 
+	height: 200px; 
+	width: 820px; 
+	border: 1px solid #000000; 
+	font-family: Sintony
+	font-decoration: none;
+}
 			
-	a.button{
-		appearance: button;
-		background-color: #B9ABFF;
-		padding: 5px;
-		text-decoration: none;
-		font-family: Sintony;
-		font-size: 30px;
-		color: #FFFFFF;
-		border-radius: 4px;
-		width: 130px;
-	}			
-	p.indexCenterImage{
-		font-size:25px; 
-		height: 200px; 
-		width: 820px; 
-		border: 1px solid #000000; 
-		font-family: Sintony
-		font-decoration: none;
-	}
-			
-	p.indexCenterText{
-		font-size:25px; 
-		height: 200px; 
-		width: 820px; 
-		font-family: Sintony
-		font-decoration: none;
-		word-wrap: break-word;
-	}
+p.indexCenterText{
+	font-size:25px; 
+	height: 200px; 
+	width: 820px; 
+	font-family: Sintony
+	font-decoration: none;
+	word-wrap: break-word;
+}		
+a.button{
+	appearance: button;
+	background-color: #B9ABFF;
+	padding: 5px;
+	text-decoration: none;
+	font-family: Sintony;
+	font-size: 30px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	width: 130px;
+}			
