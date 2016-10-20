@@ -4,6 +4,7 @@
 body{
 	background-color: #00000;
 	padding: 1px;
+	
 }
 	
 h1{
@@ -16,34 +17,32 @@ h1{
 	display: inline;
 }
 
-.featuresMainTitle{
+h2.featuresMainTitle{
 	color: #B9ABFF;
 	border:black 5px solid;
-	padding: 20px;
-	text-decoration: none;
+	padding: 10px;
 	background: #FFFC4D;
 	border-radius: 300px;
 	font-family: Sintony;
 	font-size: 50px;
 	text-align: center
 }
-p.featuresBoarderL{
+h2.featuresBoarderL{
 	font-size:25px; 
 	height: 550px; 
 	width: 700px; 
 	border: 1px solid #000000; 
-	float: left;
 	margin: 10px 110px ; 
 	font-family: Sintony
 }
-p.featuresBoarderR{
+h2.featuresBoarderR{
 	font-size:25px; 
 	height: 550px; 
 	width: 700px; 
 	border: 1px solid #000000; 
-	float: right;
 	margin: 10px 110px ; 
 	font-family: Sintony
+	
 }
 
 p.indexCenterImage{
@@ -73,4 +72,14 @@ a.button{
 	color: #FFFFFF;
 	border-radius: 4px;
 	width: 130px;
-}			
+}
+table, td, th{
+	border-collapse: collapse;
+	border:1px solid black;
+	font-size:125%;
+	text-align: center;
+	padding: 15px;
+}
+	
+
+	
