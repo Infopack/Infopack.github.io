@@ -6,17 +6,51 @@
 <head>
 	<title>Backpack: Pricing</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #B9ABFF;
+}
+
+.active {
+    background-color: #B9ABFF;
+}
+</style>
 </head>
-
 <body>
-<div align="center">
-		<a class="button" href="index.html">Home</a>
-		<a class="button" href="Features page.html">Features</a>
-		<h1>>Infopack<</h1>
-		<a class="button" href="About.html">About us</a>
-		<a class="button" href="HTML_Pricing page.html">Pricing</a>
-		
+
+<ul>
+  <li style="float:right"><a href="Features">About</a></li>
+<li style="float:right"><a href="Pricing">Pricing</a></li>
+<li style="float:right"><a class="active" href="About">Features</a></li>
+</ul>
+
+
+
 		<h3><span style ="font-weight:normal"><font size= "20" color="#B9ABFF" face="Archivo Black"><center>Meet the Developers</center></font></font></h3>
 
 
