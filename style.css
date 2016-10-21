@@ -15,6 +15,14 @@ h1{
 	font-family: Sintony;
 	font-size: 50px;
 }
+h3{
+	color: #B9ABFF;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 20px;
+	font-family: Sintony;
+	font-size: 20px;
+}
 
 h2.featuresMainTitle{
 	color: #B9ABFF;
