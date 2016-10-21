@@ -1,0 +1,146 @@
+/*style file for webpage. all css code goes here*/
+	
+		
+body{
+	background-color: #00000;
+	padding: 1px;
+	
+}
+	
+h1{
+	color: #B9ABFF;
+	padding: 15px;
+	text-decoration: none;
+	border-radius: 20px;
+	font-family: Sintony;
+	font-size: 50px;
+}
+h3{
+	color: #B9ABFF;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 20px;
+	font-family: Sintony;
+	font-size: 35px;
+}
+h4{
+	color: #000000;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 20px;
+	font-family: Sintony;
+	font-size: 20px;
+	font-weight:normal;
+}
+
+h2.featuresMainTitle{
+	color: #B9ABFF;
+	border-radius: 20px;
+	font-family: Sintony;
+	font-size: 50px;
+	text-align: center
+}
+h2.featuresBoarderL{
+	font-size:25px; 
+	height: 550px; 
+	width: 700px; 
+	border: 1px solid #000000; 
+	margin: 10px 110px ; 
+	font-family: Sintony
+}
+h2.featuresBoarderR{
+	font-size:25px; 
+	height: 550px; 
+	width: 700px; 
+	border: 1px solid #000000; 
+	margin: 10px 110px ; 
+	font-family: Sintony
+	
+}
+p.description{
+	font-size:150%;
+	color: #cccccc
+	font-family: Sintony;
+}
+
+p.indexCenterImage{
+	font-size:25px; 
+	height: 200px; 
+	width: 820px; 
+	border: 1px solid #000000; 
+	font-family: Sintony
+	font-decoration: none;
+}
+			
+p.indexCenterText{
+	font-size:25px; 
+	height: 200px; 
+	width: 820px; 
+	font-family: Sintony
+	font-decoration: none;
+	word-wrap: break-word;
+}		
+a.button{
+	appearance: button;
+	background-color: #B9ABFF;
+	padding: 5px;
+	text-decoration: none;
+	font-family: Sintony;
+	font-size: 30px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	width: 130px;
+}
+table, td, th{
+	border-collapse: collapse;
+	border:1px solid black;
+	font-size:125%;
+	text-align: center;
+	padding: 15px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+    color: #FFFC4D;
+    background-color: #B9ABFF;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #B9ABFF;
+}
+
+.active {
+    background-color: #B9ABFF;
+}	
+
+	
