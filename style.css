@@ -14,14 +14,10 @@ h1{
 	border-radius: 300px;
 	font-family: Sintony;
 	font-size: 50px;
-	display: inline;
 }
 
 h2.featuresMainTitle{
 	color: #B9ABFF;
-	border:black 5px solid;
-	padding: 10px;
-	background: #FFFC4D;
 	border-radius: 300px;
 	font-family: Sintony;
 	font-size: 50px;
@@ -43,6 +39,11 @@ h2.featuresBoarderR{
 	margin: 10px 110px ; 
 	font-family: Sintony
 	
+}
+p.description{
+	font-size:150%;
+	color: #cccccc
+	font-family: Sintony;
 }
 
 p.indexCenterImage{
@@ -80,6 +81,49 @@ table, td, th{
 	text-align: center;
 	padding: 15px;
 }
-	
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+    color: #FFFC4D;
+    background-color: #B9ABFF;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #B9ABFF;
+}
+
+.active {
+    background-color: #B9ABFF;
+}	
 
 	
