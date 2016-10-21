@@ -21,6 +21,14 @@ h3{
 	text-decoration: none;
 	border-radius: 20px;
 	font-family: Sintony;
+	font-size: 35px;
+}
+h4{
+	color: #000000;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 20px;
+	font-family: Sintony;
 	font-size: 20px;
 }
 
