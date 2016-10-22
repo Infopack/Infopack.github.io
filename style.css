@@ -9,7 +9,7 @@ body{
 	
 h1{
 	color: #B9ABFF;
-	padding: 15px;
+	padding: 5px;
 	text-decoration: none;
 	border-radius: 20px;
 	font-family: Sintony;
@@ -74,7 +74,7 @@ p.indexCenterImage{
 			
 p.indexCenterText{
 	font-size:25px; 
-	height: 200px; 
+	height: 150px; 
 	width: 820px; 
 	font-family: Sintony
 	font-decoration: none;
@@ -117,30 +117,118 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #000000;
+	font-family: Sintony
+	font-decoration: none;
 }
 li {
     float: left;
     border-right:1px solid #bbb;
+	font-family: Sintony
+	font-decoration: none;
 }
 
 li:last-child {
     border-right: none;
+	font-family: Sintony
+	font-decoration: none;
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
+	font-family: Sintony
+	font-decoration: none;
     padding: 21px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
     background-color: #B9ABFF;
+	font-family: Sintony
+	font-decoration: none;
 }
 
 .active {
     background-color: #B9ABFF;
+	font-family: Sintony
+	font-decoration: none;
 }	
+
+
+h2 { 
+border-radius: 25px;
+font-family: 'Paytone One', sans-serif; 
+font-size: 63px; 
+text-align: center; 
+font-weight: 100px; 
+font-size:25px; 
+color: black; 
+}
+
+p { 
+font-size: 20px; 
+font-family: 'Dosis', sans-serif; 
+}
+
+h4 { 
+border-radius: 25px;
+font-family: 'Paytone One', sans-serif; 
+font-size: 63px; 
+text-align: center; 
+font-weight: 100px; 
+font-size:25px; 
+color: black; 
+}
+
+.Element_1 { 
+font-size:19px; 
+height: 380px; 
+width: 400px; 
+float:left ;
+margin:45px; 
+margin-left:45px; 
+border-radius:0px; 
+padding: 10px 40px; 
+background-color:#BCC6CC;  
+box-shadow: 10px 10px 5px grey;
+}  
+
+.Element_2 { 
+font-size:19px; 
+height: 380px; 
+width: 400px; 
+float:left;
+margin-top:45px;  
+margin-left:25px; 
+border-radius:0px; 
+padding: 10px 40px; 
+background-color:#FFF380;  
+box-shadow: 10px 10px 5px grey; 
+top: 20px; 
+}   
+
+            .Title_2 { 
+            text-align:center; 
+            } 
+
+            #content_wrapper{ 
+            width: 1095px;
+            margin: 0 auto;
+           
+            height:700px;
+            z-index:100;
+            position:relative;
+            }
+
+           .First_plan{ 
+            font-family: 'Catamaran', sans-serif;
+            font-size: 20px;
+            }
+
+            .Second_plan{
+            font-family: 'Catamaran', sans-serif; 
+            font-size: 20px;
+            }
 
 	
