@@ -74,11 +74,12 @@ p.indexCenterImage{
 			
 p.indexCenterText{
 	font-size:25px; 
-	height: 150px; 
+	height: 200px; 
 	width: 820px; 
 	font-family: Sintony
 	font-decoration: none;
 	word-wrap: break-word;
+	text-align: justify;
 }		
 a.button{
 	appearance: button;
