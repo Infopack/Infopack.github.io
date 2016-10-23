@@ -17,8 +17,7 @@ These are our color swatches:
 
 Iconography
 ===========
-Our main focus is to use exciting icons to want the users to feel adventurous.
-When selecting an icon, please select the correct icon for the job and keep the following in mind:
+Our main focus is to use exciting icons to want the users to feel adventurous. The pricing page will have a 3d icon look. The rest of the pages, however, will be flat.
 
 Typography
 ==========
@@ -26,8 +25,8 @@ We will be using Paytone One and Dosis from Google Fonts.
 
 Links
 =====
-Links are at the top and will change colour when the cursor hovers over.
+Links are at the top and will change colour when the cursor hovers over, not underlines, however.
 
 Buttons
 =======
-Buttons will be rectangle designed with rounded using the chosen colors outlined above.
+Buttons will be rectangle designed using the chosen colors outlined above.
