@@ -1,0 +1,4 @@
+1. Create a more responsive image frame in Index
+2. Create a more responsive Contact us 
+3. Add Facebook, Twitter, and Linkedin icons for THE COMPANY near the contact us
+4. Add more content, make the site more interactive overall
