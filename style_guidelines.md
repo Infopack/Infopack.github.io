@@ -14,6 +14,8 @@ These are our color swatches:
 - #FFFC4D
 - #B9ABFF
 - #515ECC
+- #FDFECC
+- #6495ED
 
 Iconography
 ===========
