@@ -63,14 +63,6 @@ p.description{
 	font-family: Sintony;
 }
 
-p.indexCenterImage{
-	font-size:25px; 
-	height: 200px; 
-	width: 820px; 
-	border: 1px solid #000000; 
-	font-family: Sintony
-	font-decoration: none;
-}
 			
 p.indexCenterText{
 	font-size:25px; 
@@ -209,6 +201,65 @@ box-shadow: 10px 10px 5px grey;
 top: 20px; 
 }   
 
+p.homepage{
+	font-size:25px; 
+	font-family: Sintony
+	font-decoration: none;
+}
+#textBlock{
+	width: 70%;
+	float:left;
+}
+
+#hold{
+		width:15%;
+		height: 80%;
+		float:left;
+}
+
+#header{
+	width: 80%;
+	height: 40%;
+	float:left;
+}
+
+#plan1{
+		width:40%;
+		height: 50%;
+		margin-top: 10px;
+		float:left;
+		font-size:19px;  
+		background-color:#BCC6CC;  
+		box-shadow: 10px 10px 5px grey;
+}
+
+#plan2{
+		width:40%;
+		height: 50%;
+		margin-top: 10px;
+		float:right;
+		font-size:19px;   
+		background-color:#FFF380;  
+		box-shadow: 10px 10px 5px grey; 
+}
+
+#hold2{
+		width:10%;
+		height: 40%;
+		float:left;
+}
+
+#hold3{
+		width:10%;
+		height: 70%;
+		float:left;
+}
+
+#hold4{
+		width:5%;
+		height: 70%;
+		float:left;
+}
             .Title_2 { 
             text-align:center; 
             } 
