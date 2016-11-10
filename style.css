@@ -6,7 +6,8 @@ body{
 	padding: 1px;
 	
 }
-	
+
+/*headers*/	
 h1{
 	color: #B9ABFF;
 	padding: 5px;
@@ -15,24 +16,15 @@ h1{
 	font-family: Sintony;
 	font-size: 50px;
 }
-h3{
-	color: #B9ABFF;
-	padding: 10px;
-	text-decoration: none;
-	border-radius: 20px;
-	font-family: Sintony;
-	font-size: 35px;
+h2 { 
+	border-radius: 25px;
+	font-family: 'Paytone One', sans-serif; 
+	font-size: 63px; 
+	text-align: center; 
+	font-weight: 100px; 
+	font-size:25px; 
+	color: black; 
 }
-h4{
-	color: #000000;
-	padding: 10px;
-	text-decoration: none;
-	border-radius: 20px;
-	font-family: Sintony;
-	font-size: 20px;
-	font-weight:normal;
-}
-
 h2.featuresMainTitle{
 	color: #B9ABFF;
 	border-radius: 20px;
@@ -57,13 +49,34 @@ h2.featuresBoarderR{
 	font-family: Sintony
 	
 }
-p.description{
-	font-size:150%;
-	color: #cccccc
+h3{
+	color: #B9ABFF;
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 20px;
 	font-family: Sintony;
+	font-size: 35px;
+}
+h4 { 
+	border-radius: 25px;
+	font-family: 'Paytone One', sans-serif; 
+	font-size: 63px; 
+	text-align: center; 
+	font-weight: 100px; 
+	font-size:25px; 
+	color: black; 
 }
 
-			
+/*paragraphs*/
+p { 
+	font-size: 20px; 
+	font-family: 'Dosis', sans-serif; 
+}
+p.description{
+	font-size:150%;
+	color: #6495ED;
+	font-family: Sintony;
+}		
 p.indexCenterText{
 	font-size:25px; 
 	height: 200px; 
@@ -147,32 +160,6 @@ li a:hover:not(.active) {
 	font-family: Sintony
 	font-decoration: none;
 }	
-
-
-h2 { 
-border-radius: 25px;
-font-family: 'Paytone One', sans-serif; 
-font-size: 63px; 
-text-align: center; 
-font-weight: 100px; 
-font-size:25px; 
-color: black; 
-}
-
-p { 
-font-size: 20px; 
-font-family: 'Dosis', sans-serif; 
-}
-
-h4 { 
-border-radius: 25px;
-font-family: 'Paytone One', sans-serif; 
-font-size: 63px; 
-text-align: center; 
-font-weight: 100px; 
-font-size:25px; 
-color: black; 
-}
 
 .Element_1 { 
 font-size:19px; 
