@@ -100,7 +100,7 @@ a.button{
 	width: 130px;
 }
 ul {
-    list-style-type: none;
+	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -109,7 +109,7 @@ ul {
 	font-decoration: none;
 }
 li {
-    float: left;
+	float: left;
     border-right:1px solid #bbb;
 	font-family: 'Catamaran', sans-serif;
 	font-decoration: none;
