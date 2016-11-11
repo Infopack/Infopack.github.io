@@ -4,7 +4,6 @@
 body{
 	background-color: #00000;
 	padding: 1px;
-	
 }
 
 /*headers*/	
@@ -87,13 +86,19 @@ p.indexCenterText{
 	text-align: justify;
 }
 
+/*links*/
+a.foot{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: black;
+}
 /*menu*/	
 a.button{
 	appearance: button;
 	background-color: #B9ABFF;
 	padding: 5px;
 	text-decoration: none;
-	font-family: 'Catamaran', sans-serif;;
+	font-family: 'Catamaran', sans-serif;
 	font-size: 30px;
 	color: #FFFFFF;
 	border-radius: 4px;
@@ -225,6 +230,10 @@ p.homepage{
 		width:5%;
 		height: 70%;
 		float:left;
+}
+
+form{
+	font-family: 'Catamaran', sans-serif;
 }
             .Title_2 { 
             text-align:center; 
