@@ -19,17 +19,23 @@
 		<div align="center">
 		<br>
 		<br>
-		
-		<h1>Contact Us</h1>
-		<form action="mail.php" method="get" id="spaceing" data-abide>
+		<h1>Contact us</h1>
+		<p>(Currently, the contact us form is disabled) Please contact us at: <a href="mailto:metem033@uottawa.ca">metem033@uottawa.ca</a>.</p>
+		<p><form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
 
-			<p>Name</p> <input type="text" name="name">
-			<p>Email</p> <input type="text" name="email">
-			<p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
-			<input type="submit" value="Send"><input type="reset" value="Clear">
-		</form>
-
-		
+			<div class="row">
+				<label for="name">First and Last Name</label><br />
+				<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+			</div>				<div class="row">
+				<label for="email">Email</label><br />
+				<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+			</div>
+			<div class="row">
+				<label for="message">Message</label><br />					
+				<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+			</div
+			<input id="submit_button" type="submit" value="Send email" />
+		</form></p>
 		<br>
 		<br>
 		</div>
