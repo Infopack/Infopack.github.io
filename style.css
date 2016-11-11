@@ -85,7 +85,9 @@ p.indexCenterText{
 	font-decoration: none;
 	word-wrap: break-word;
 	text-align: justify;
-}		
+}
+
+/*menu*/	
 a.button{
 	appearance: button;
 	background-color: #B9ABFF;
@@ -96,26 +98,6 @@ a.button{
 	color: #FFFFFF;
 	border-radius: 4px;
 	width: 130px;
-}
-table, td, th{
-	border-collapse: collapse;
-	border:1px solid black;
-	font-size:125%;
-	text-align: center;
-	padding: 15px;
-}
-table {
-    border-collapse: collapse;
-    width: 50%;
-}
-th, td {
-    text-align: center;
-    padding: 8px;
-}
-tr:nth-child(even){background-color: #f2f2f2}
-th {
-    color: #FFFC4D;
-    background-color: #B9ABFF;
 }
 ul {
     list-style-type: none;
@@ -160,33 +142,29 @@ li a:hover:not(.active) {
 	font-family: Sintony
 	font-decoration: none;
 }	
+/*table*/
+table, td, th{
+	border-collapse: collapse;
+	border:1px solid black;
+	font-size:125%;
+	text-align: center;
+	padding: 15px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+    color: #FFFC4D;
+    background-color: #B9ABFF;
+}
 
-.Element_1 { 
-font-size:19px; 
-height: 380px; 
-width: 400px; 
-float:left ;
-margin:45px; 
-margin-left:45px; 
-border-radius:0px; 
-padding: 10px 40px; 
-background-color:#BCC6CC;  
-box-shadow: 10px 10px 5px grey;
-}  
-
-.Element_2 { 
-font-size:19px; 
-height: 380px; 
-width: 400px; 
-float:left;
-margin-top:45px;  
-margin-left:25px; 
-border-radius:0px; 
-padding: 10px 40px; 
-background-color:#FFF380;  
-box-shadow: 10px 10px 5px grey; 
-top: 20px; 
-}   
+  
 
 p.homepage{
 	font-size:25px; 
@@ -238,14 +216,16 @@ p.homepage{
 
 #hold3{
 		width:10%;
-		height: 70%;
+		height: 60%;
 		float:left;
+		color:#ccc;
 }
 
 #hold4{
 		width:5%;
 		height: 70%;
 		float:left;
+		color: #bbb;
 }
             .Title_2 { 
             text-align:center; 
