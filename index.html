@@ -1,4 +1,7 @@
 ﻿<!--Coded by Rachel Harrison-->
+
+<!--JQuery added by Mahdi Etemad-->
+
 <html>
 	<head>
 		<link rel="icon" href="http://images.clipartpanda.com/pack-clipart-backpack-md.png">
@@ -10,17 +13,12 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script src="jquery-3.1.1.min.js"></script>
 
-<script>
-$(document).ready(function(){
-    $("button").click(function(){
-        $("p").hide();
-    });
-});
-</script>
 
 	</head>
 	
-	<body background="IMAGES/indexphoto.jpg">
+	<body bgcolor="#E6E6FA">
+
+
 		<ul>
 			<li style="float:right"><a href="About.html">About Us</a></li>
 			<li style="float:right"><a href="Pricing.html">Get Started</a></li>
@@ -28,22 +26,56 @@ $(document).ready(function(){
 			<li style="float:right"><a class="active" href="index.html">Home</a></li>
 			<img src="IMAGES/logo_final.png" alt="InfoPack logo"/>
 		</ul>
+
+
+
 		<br>
 		<br>
 		<div align="center">
 			<br>
 			<br>
 			<div id="hold"> </div>
+
+<div id="dvImage" style="height: 350px; width: 800px">
+    </div>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+        var images = ["Chris2.jpg", "Jannah2.jpg", "Rachel2.jpg"];
+        $(function () {
+            var i = 0;
+            $("#dvImage").css("background-image", "url(images/" + images[i] + ")");
+            setInterval(function () {
+                i++;
+                if (i == images.length) {
+                    i = 0;
+                }
+                $("#dvImage").fadeOut("slow", function () {
+                    $(this).css("background-image", "url(images/" + images[i] + ")");
+                    $(this).fadeIn("slow");
+                });
+            }, 5000);
+        });
+    </script>
+<center>
+</center>
 			<div id="textBlock">
-				<h1>Introducing Backpack</h1>
+
 				<br>
 				<p class="homepage">Backpack is an app where travellers who are new to the area can "become one of the locals" by discovering the history of places, monuments, statues, buildings, as well as tips and information about attractions, restaurants, shops, routes, and prices. This app will let people who can source their information enter, text and picture documents that anyone can view. The interface is an interactive map that can be used by tapping on the interest wanted.</p>
-			</div>
+		</div>
 			<div id="hold"> </div>
+
+
+	
 			<br>
 			<br>
 			<br>
 			<br>
+
+<br>
+<br>
+
+
 
 
 			<footer>
